@@ -12,5 +12,9 @@
   "devDependencies": {
     "eslint": "^9.17.0",
     "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "prompt-sync": "^4.2.0"
   }
 }
